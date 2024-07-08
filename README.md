@@ -13,7 +13,7 @@ This project is a content-based product recommendation system built using Python
 
 1. **Clone the repository**:
    ```sh
-   git clone 
+   git clone https://github.com/Tanvi51204/Product-recommender.git
    cd product-recommendation-system
 
 2. **Create a virtual environment and activate it**:
