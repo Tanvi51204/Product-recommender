@@ -17,11 +17,11 @@ This project is a content-based product recommendation system built using Python
    
 
 2. **Create a virtual environment and activate it**:
-   python -m venv venv
+   `python -m venv venv`
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 3.  **Install the required packages**:
-   pip install -r requirements.txt
+  `pip install -r requirements.txt`
 
 4. **Run the streamlit app**:
-   streamlit run app.py
+   `streamlit run app.py`
